@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -u -c \"import json; print\\(''ok''\\)\")",
+      "Bash(for f:*)",
+      "Bash(do)",
+      "Bash(echo \"=== $f ===\")",
+      "Bash(python -u -c \":*)",
+      "Bash(done)"
+    ]
+  }
+}
